@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.exe
+C:\Users\opilane\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.deps.json
+C:\Users\opilane\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.runtimeconfig.json
+C:\Users\opilane\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.dll
+C:\Users\opilane\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.pdb
+C:\Users\opilane\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.dll
+C:\Users\opilane\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.pdb
+C:\Users\opilane\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.genruntimeconfig.cache
